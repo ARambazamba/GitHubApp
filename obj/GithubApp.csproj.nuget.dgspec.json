@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Playground\\GithubApp\\GithubApp.csproj": {}
+    "h:\\Playground\\GithubApp\\GithubApp.csproj": {}
   },
   "projects": {
-    "H:\\Playground\\GithubApp\\GithubApp.csproj": {
+    "h:\\Playground\\GithubApp\\GithubApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Playground\\GithubApp\\GithubApp.csproj",
+        "projectUniqueName": "h:\\Playground\\GithubApp\\GithubApp.csproj",
         "projectName": "GithubApp",
-        "projectPath": "H:\\Playground\\GithubApp\\GithubApp.csproj",
+        "projectPath": "h:\\Playground\\GithubApp\\GithubApp.csproj",
         "packagesPath": "C:\\Users\\AlexanderPajer\\.nuget\\packages\\",
-        "outputPath": "H:\\Playground\\GithubApp\\obj\\",
+        "outputPath": "h:\\Playground\\GithubApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
